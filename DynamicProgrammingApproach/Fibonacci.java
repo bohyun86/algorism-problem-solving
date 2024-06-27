@@ -10,6 +10,7 @@ public class Fibonacci {
             int num = Integer.parseInt(sc.nextLine());
             fibonacci(num);
         }
+        sc.close();
 
     }
 
