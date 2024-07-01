@@ -38,5 +38,6 @@ class FindingPossiblePositions {
                 System.out.println("2");
             }
         }
+        sc.close();
     }
 }
