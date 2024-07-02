@@ -1,4 +1,4 @@
-package String;
+package string;
 
 // 프리픽스 함수를 계산하는 함수와 주어진 단어 리스트에서 가장 긴 경계를 찾는 코드
 

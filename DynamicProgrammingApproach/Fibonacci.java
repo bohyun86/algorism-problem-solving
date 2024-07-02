@@ -1,4 +1,4 @@
-package DynamicProgrammingApproach;
+package dynamicProgrammingApproach;
 import java.util.Scanner;
 
 /**
